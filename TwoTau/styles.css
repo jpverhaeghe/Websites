@@ -1,0 +1,15 @@
+﻿body 
+{
+    font-family: Calibri;
+    font-size: 12pt;
+    text-align: left;
+    background-color: #FFFFFF;
+    color: #666666;
+}
+h1
+{
+    font-family: Calibri;
+    font-size: 36pt;
+    font-weight: bold;
+    text-align: center;
+}
